@@ -1,0 +1,14 @@
+{
+  "app": {
+    "name": "RBXEasy",
+    "httpPort": 5000
+  },
+  "database": {
+    "uri": "mongodb://localhost:27017/precily"
+  },
+  "papertrail": {
+    "enabled": false,
+    "host": "",
+    "port": ""
+  }
+}
